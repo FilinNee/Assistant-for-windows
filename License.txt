@@ -1,0 +1,19 @@
+-----Assistant for windows license-----
+
+<< Assistant for windows >> is made with << Python 3.8.10 >> programming language using third-party library << Kivy >>.
+The latest version of this application was completed 07/05/2022.
+
+This application includes 5 sections:
+1) << Standard applications >> - includes standard Windows applications for launch.
+
+2) << My applications >> - allows you to add and launch your applications.
+
+3) << Screenshots >> - allows you to make screenshots, copy, open, delete and switch between them.
+
+4) << Computer >> - allows you to change computer properties, view list of connected USB devices,
+view computer state,  delete empty folders and files, clean temporary folders, check internet speed.
+
+5) << Settings >> - allows you to customize the program for yourself.
+
+You cant redistribute this product, if the author has not given official consent to do it.
+Author email for communicate with him, if you have some questions: omisutin646@gmail.com
