@@ -1,7 +1,7 @@
 -----Assistant for windows license-----
 
 << Assistant for windows >> is made with << Python 3.8.10 >> programming language using third-party library << Kivy >>.
-The latest version of this application was completed 07/05/2022.
+The latest version of this application was completed 08/05/2022.
 
 This application includes 5 sections:
 1) << Standard applications >> - includes standard Windows applications for launch.

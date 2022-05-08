@@ -5,7 +5,7 @@ To start working with the program, download the ZIP - archive of the repository 
 it will be minimazed to system tray. Some features of the program are available when it is in the system tray.
 ___
 ### Section "Standard applications"
-This section introduces you to a set of 18 Windows standart applications that you can launch by selecting the desired
+This section introduces you to a set of 22 Windows standart applications that you can launch by selecting the desired
 application checkbox and then clicking the "Launch" button. You can run one or more applications at the same time,
 to change launch modes press:
 
@@ -64,10 +64,24 @@ After changing these settings, the program must be restarted:
 * Number of my applications
 * Background color
 ___
+# Changelog version 1.1
+Added 4 applications to the "Standard Applications" section:
+
+* Firewall monitoring
+* Disks optimization
+* Task Manager
+* Services
+
+The program is now adding to the Windows Start Menu.
+
+Fixed a bug with removing program shortcut from autolaunch.
+
+If you have an autolaunch shortcut created in version 1.0, remove and add it again because it has been changed in this version.
+___
 The application was tested on Windows 10 operating system, if you have a different operating system, unexpected errors may occur.
 
 If you find bugs or have questions, write to this email: omisutin646@gmail.com
 
 Enjoy using this program!
 ___
-Program version - 1.0
+Program version - 1.1
